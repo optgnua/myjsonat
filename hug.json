@@ -1,5 +1,5 @@
 {
-    "Enable_Ads":true,
+    "Enable_Ads":false,
 	"whichAds": 0,// 0 for Admob 1 for Applovin
 	"Interstitial_Applovin_ButtonBack":"2fb38336c560d201",
 	"ENABLE_ONBACK_ADS":false,
