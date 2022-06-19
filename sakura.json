@@ -1,5 +1,5 @@
 {
-    "Enable_Ads":true,
+    "Enable_Ads":false,
 	"whichAds": 0,// 0 for Admob 1 for Applovin
 	"Interstitial_Applovin_ButtonBack":"2fb38336c560d201",
 	"ENABLE_ONBACK_ADS":false,
@@ -17,9 +17,9 @@
        
        //Popup 
         "Visibility_popup":false,
-        "Title_View_popup":"Free fire",
-        "Url_button_popup":"https://coinmarketcap.com/",
-        "Image_View_popup":"https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2"
+        "Title_View_popup":"",
+        "Url_button_popup":"",
+        "Image_View_popup":""
        
        
 }
