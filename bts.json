@@ -1,0 +1,25 @@
+{
+    "Enable_Ads":false,
+	"whichAds": 0,// 0 for Admob 1 for Applovin
+	"Interstitial_Applovin_ButtonBack":"2fb38336c560d201",
+	"ENABLE_ONBACK_ADS":false,
+    "Interstitial_Applovin":"6eced1c4207f23e9",
+    "Mrec_Applovin":"1a07bec60aeaca0f",
+    "Banner_Applovin":"086a5330df501860",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	
+        //image cpa 
+        "Visibility_image_cpa":false,
+       "Url_Image_Cpa":"https://www.google.com/",
+       "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+       
+       
+       //Popup 
+        "Visibility_popup":false,
+        "Title_View_popup":"",
+        "Url_button_popup":"",
+        "Image_View_popup":""
+       
+       
+}
