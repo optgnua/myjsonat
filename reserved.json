@@ -9,8 +9,8 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "02a3457df7b8af25",
-	"APPLOVIN_INTERSTITIAL_ID": "7cb36f1cabd41177",
+	"APPLOVIN_BANNER_ID": "6544ab0eba15f41b",
+	"APPLOVIN_INTERSTITIAL_ID": "13565479256ce62e",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"247575456a9",
 	"ENABLE_ONBACK_ADS":false,
 
@@ -31,7 +31,7 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
+	"isPage2Activate": true,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
