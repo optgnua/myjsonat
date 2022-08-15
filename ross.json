@@ -1,7 +1,7 @@
 {
   
   
-  "ENABLE_Ads":false,
+  "ENABLE_Ads":true,
 	"APP_KEY": "fS4561",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -9,8 +9,8 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "02a3457df7b8af25",
-	"APPLOVIN_INTERSTITIAL_ID": "7cb36f1cabd41177",
+	"APPLOVIN_BANNER_ID": "e32e8beae104805f",
+	"APPLOVIN_INTERSTITIAL_ID": "1beb34052701d68a",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"247575456a9",
 	"ENABLE_ONBACK_ADS":false,
 
@@ -31,7 +31,7 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
+	"isPage2Activate": true,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
@@ -56,7 +56,7 @@
 		{
 			"title": "Ross",
 			"image": "https://raw.githubusercontent.com/optgnua/tsawar/main/ross.png",
-			"url": "http://"
+			"url": "https://www.rossstores.com/"
 		}
 
 	]
