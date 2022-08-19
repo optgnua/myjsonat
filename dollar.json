@@ -40,7 +40,7 @@
 "textPage4":"have you ever bought fro converse before?",
 "button1Page4":"yes",
 "button2Page4":"no",
-"isPage5Activate":true,
+"isPage5Activate":false,
 //content Page 5
 "textPage5":"do you like fashion ?",
 "button1Page5":"yes",
