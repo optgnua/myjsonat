@@ -35,7 +35,7 @@
 "isPage1Activate": true,
 "isPage2Activate": false,
 "isPage3Activate": false,
-"isPage4Activate": true,
+"isPage4Activate": false,
     //content Page 4
 "textPage4":"have you ever bought fro converse before?",
 "button1Page4":"yes",
